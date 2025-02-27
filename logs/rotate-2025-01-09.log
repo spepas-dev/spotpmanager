@@ -1,0 +1,10 @@
+{"label":"Spare Spart api logs","level":"info","message":"Success"}
+{"content_length":"78","label":"Spare Spart api logs","level":"http","message":"incoming-api-request","method":"POST","response_time":1169.47,"status":200,"url":"/spotpservices/api/v1/create"}
+{"label":"Spare Spart api logs","level":"info","message":"Success"}
+{"content_length":"509","label":"Spare Spart api logs","level":"http","message":"incoming-api-request","method":"POST","response_time":1139.641,"status":200,"url":"/spotpservices/api/v1/validate"}
+{"label":"Spare Spart api logs","level":"debug","message":"Spare Part OTP Service: Running in development mode and listening on port http://:9008"}
+{"label":"Spare Spart api logs","level":"debug","message":"Spare Part OTP Service: Running in development mode and listening on port http://:9008"}
+{"label":"Spare Spart api logs","level":"debug","message":"Spare Part OTP Service: Running in development mode and listening on port http://:9008"}
+{"label":"Spare Spart api logs","level":"debug","message":"Spare Part OTP Service: Running in development mode and listening on port http://:9008"}
+{"label":"Spare Spart api logs","level":"debug","message":"Spare Part OTP Service: Running in development mode and listening on port http://:9008"}
+{"label":"Spare Spart api logs","level":"debug","message":"Spare Part OTP Service: Running in development mode and listening on port http://:9008"}
