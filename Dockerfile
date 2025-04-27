@@ -11,7 +11,7 @@ COPY routes ./routes
 COPY config ./config
 COPY utils ./utils
 COPY server.js ./
-RUN npm install -g pm2 npm@latest
+RUN npm install -g pm2 npm
 RUN npm install
 
 EXPOSE 9008
